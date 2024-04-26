@@ -1,5 +1,6 @@
-##include "MainGame.h"
+#include "MainGame.h"
 #include "Sprite.h"
+#include <random>
 
 MainGame::MainGame()
 {
@@ -70,8 +71,17 @@ void MainGame::processInput()
 			gameState = GameState::EXIT;
 			break;
 		case SDL_MOUSEMOTION:
-			cout << " Posicion en X " << event.motion.x
-				<< " Posicion en Y " << event.motion.y << endl;
+			
+			std::random_device rd;
+			std::mt19937 gen(rd());	
+			std::uniform_int_distribution<int> dis(1, 10);
+			const int num_iterations = 10;
+			for (int i = 0; i < num_iterations; ++i) {
+				
+				cout << " Posicion en X " << event.motion.x
+					<< " Posicion en Y " << event.motion.y << endl;
+			}
+
 			break;
 		}
 	}
