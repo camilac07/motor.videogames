@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\Error.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\Error.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\GLS_Program.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\Sprite.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\Vertex.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{48C7D465-BB5B-4E7B-AAF2-DC2BE02D826B}|MotorJuegos\\MotorJuegos.vcxproj|solutionrelative:MotorJuegos\\GLS_Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.cpp",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.cpp",
+              "RelativeDocumentMoniker": "MotorJuegos\\Error.cpp",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.cpp",
+              "RelativeToolTip": "MotorJuegos\\Error.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T14:14:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.h",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.h",
+              "RelativeDocumentMoniker": "MotorJuegos\\Error.h",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Error.h",
+              "RelativeToolTip": "MotorJuegos\\Error.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T14:14:46.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sprite.h",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.h",
+              "RelativeDocumentMoniker": "MotorJuegos\\Sprite.h",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.h",
+              "RelativeToolTip": "MotorJuegos\\Sprite.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T13:58:49.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainGame.h",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.h",
+              "RelativeDocumentMoniker": "MotorJuegos\\MainGame.h",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.h",
+              "RelativeToolTip": "MotorJuegos\\MainGame.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T14:01:07.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GLS_Program.h",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.h",
+              "RelativeDocumentMoniker": "MotorJuegos\\GLS_Program.h",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.h",
+              "RelativeToolTip": "MotorJuegos\\GLS_Program.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T14:00:12.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cpp",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Main.cpp",
+              "RelativeDocumentMoniker": "MotorJuegos\\Main.cpp",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Main.cpp",
+              "RelativeToolTip": "MotorJuegos\\Main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T01:15:35.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainGame.cpp",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.cpp",
+              "RelativeDocumentMoniker": "MotorJuegos\\MainGame.cpp",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\MainGame.cpp",
+              "RelativeToolTip": "MotorJuegos\\MainGame.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T14:09:26.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sprite.cpp",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.cpp",
+              "RelativeDocumentMoniker": "MotorJuegos\\Sprite.cpp",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Sprite.cpp",
+              "RelativeToolTip": "MotorJuegos\\Sprite.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T14:09:37.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Vertex.h",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Vertex.h",
+              "RelativeDocumentMoniker": "MotorJuegos\\Vertex.h",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\Vertex.h",
+              "RelativeToolTip": "MotorJuegos\\Vertex.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-26T14:04:30.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GLS_Program.cpp",
+              "DocumentMoniker": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.cpp",
+              "RelativeDocumentMoniker": "MotorJuegos\\GLS_Program.cpp",
+              "ToolTip": "C:\\Users\\camic\\source\\Motor\\MotorJuegos\\MotorJuegos\\GLS_Program.cpp",
+              "RelativeToolTip": "MotorJuegos\\GLS_Program.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-26T14:08:49.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
